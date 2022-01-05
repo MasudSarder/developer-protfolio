@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.sectionOne{
+    display: flex;
+    padding: 20px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 20px;
+}
+.orange-color{
+    color: orange;
+}
+.headerOne{
+    width: 50%;
+}
+.headerOne img{
+    width: 80%;
+}
+.hire-button{
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    background-color: indianred;
+}
